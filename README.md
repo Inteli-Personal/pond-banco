@@ -1,5 +1,5 @@
 # Ponderada de Prgoramação Semana 4
-Este repositório contém arquivos PHP para gerenciar bancos de dados de carros e funcionários, projetados para serem executados em uma instância EC2 da AWS com um servidor web Apache e um banco de dados MariaDB, MySQL ou PostgreSQL.
+Este repositório contém arquivos PHP para gerenciar bancos de dados de carros e funcionários, projetados para serem executados em uma instância EC2 da AWS com um servidor web Apache e um banco de dados MariaDB, MySQL ou PostgreSQL. O link com a demosntração dessa aplicação pode ser encontrado em: https://drive.google.com/file/d/1B_eRc77D51VmYo5BMK0nyRxw-1d7i3s6/view?usp=sharing
 
 ## Configurando o Ambiente na Instância EC2
 
